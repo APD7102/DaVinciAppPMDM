@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DaVinciApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Leonardo da Vinci</string>
+    <string name="nav_header_subtitle">Las Obras de un genio</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_alta">Alta</string>
+    <string name="action_baja">Baja</string>
+    <string name="action_modificacion">Modificación</string>
+
+    <string name="menu_pintor">Pintor</string>
+    <string name="menu_escultor">Escultor</string>
+    <string name="menu_cientifico">Científico</string>
+    <string name="menu_inventor">Inventor</string>
+    <string name="cuadro">El retrato de Ginevra de Benci fue pintado por Leonardo entre 1474 e 1476. Se trata de un óleo sobre madera y recibe ese nombre por la persona retratada,
+        quien es una joven aristócrata de Florencia, famosa y admirada por su inteligencia.La cabeza de la joven se encuentra enmarcada por las hojas de un arbusto de enebro, mientras
+        que al fondo puede contemplarse un cuidado paisaje natural.</string>
+    <string name="cinentifico">Leonardo sentía una verdadera intriga sobre los procesos reproductivos humanos y realizó abundantes estudios anatómicos y disecciones
+        de los órganos sexuales femeninos así como de fetos y embriones en el útero. Muchos de ellos poseen errores médicos que han sido puesto de relieve
+        actualmente, aunque resulta evidente que sus dibujos son tomados directamente del natural. Para ello, Leonardo hubo de realizar disecciones de cadáveres
+        que en la época constituía uno de los más graves delitos. Leonardo fue acusado en varias ocasiones de practicar la magia negra y la hechicería, posiblemente por
+        sus estudios de anatomía.</string>
+    <string name="escultura">Considerado como uno de los mayores genios de la historia, Leonardo da Vinci dejó numerosas creaciones artísticas, pero pese a que era un
+        artista total, ninguna de ellas era escultórica. Es decir, no se tenía constancia de ninguna escultura creada por el genio toscano. Hasta ahora. Expertos
+        italianos han concluido que una Virgen con Niño de 1472, hasta ahora atribuida a otro artista, Antonio Rossellino, es en realidad obra de Da Vinci.</string>
+    <string name="invento">Da Vinci creía firmemente en que un día el hombre volaría por los cielos como lo hacen los pájaros, por este motivo inventó una
+        máquina voladora, conocida como "ornitóptero", inspirada en el vuelo de las aves y murciélagos.</string>
+</resources>
